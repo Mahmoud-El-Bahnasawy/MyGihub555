@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MyGihub555
 - 👀 I’m interested in Power Query
 - 🌱 I’m currently learning Power Query
-- 💞️ I’m looking to collaborate on Data Analisis 
+- 💞️ I’m looking to collaborate on Data Analysis 
 - 📫 How to reach me germantarjuman@outlook.com
 
 <!---
