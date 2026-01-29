@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MyGihub555
+- 👋 Hi, I’m Mahmoud
 - 👀 I’m interested in Power Query
 - 🌱 I’m currently learning Power Query
 - 💞️ I’m looking to collaborate on Data Analysis 
